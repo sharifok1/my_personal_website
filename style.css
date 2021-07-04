@@ -102,3 +102,48 @@ a{
     font-weight: 700;
 
 }
+.my_stage{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-size: 7%;
+    background-position-y: center;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.exp-div{
+   
+    display: flex;
+}
+.web-journey{
+   
+    margin: 10px;
+    width: 40%;
+    margin-left: 10%;
+    margin-right:5%;
+    border-radius: 5px;
+    box-shadow:5px 5px 20px 10px gray;
+    border-left: 7px solid green;
+} 
+.web-junior{
+    
+    width: 40%;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 5%;
+    border-radius: 5px;
+    box-shadow:5px 5px 20px 10px gray;
+    border-left: 7px solid rgb(233, 6, 93);
+}
+.exp-hed{
+    padding :40px;
+}
+.my-exp{
+    padding:30px;
+}
+.foter{
+    margin-top: 20px;;
+    padding-top:100px;
+    padding: 20px;
+    text-align: center;
+}
