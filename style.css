@@ -21,7 +21,7 @@ p{
 }
 .welcome-text{
     width:70%;
-    font-family:sans-serif;
+    font-family: 'Poppins', sans-serif;
     padding-left: 5%;
     padding-top:5%;
 }
@@ -73,7 +73,7 @@ a{
     
 }
 .text-2{
-    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
     
      width:100%;
     padding-top: 20px;
