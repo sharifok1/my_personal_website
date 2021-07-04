@@ -3,7 +3,7 @@
     margin: 0px;
 }
 h1{
-    font-size: 4vmax;
+    font-size: 7vmin;
 }
 p{
     text-align: justify;
@@ -27,7 +27,7 @@ p{
 }
 .welcome-text h2{
     padding-top: 50px;
-    font-size: 3vmax;
+    font-size: 5vmin;
 
 }
 .photo-1{
@@ -82,13 +82,13 @@ a{
     float: left inline block;
     padding-top: 25px;
     padding-bottom:25px;;
-    font-size: 4vmax;
+    font-size: 7vmin;
     
 }
 .text-2 h2 {
     float: inline-start;
     text-align: inline-block;
-    font-size: 3vmax;
+    font-size: 5vmin;
 }
 .text-2 p{
     display: inline-block;
