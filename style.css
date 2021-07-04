@@ -88,9 +88,10 @@ a{
 .text-2 h2 {
     float: inline-start;
     text-align: inline-block;
-    font-size: 2vmax;
+    font-size: 3vmax;
 }
 .text-2 p{
+    display: inline-block;
     padding-right: 30px;
 }
 .resume{
