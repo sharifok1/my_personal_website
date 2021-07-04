@@ -1,0 +1,57 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+}
+h1{
+    font-size: 4vmax;
+}
+p{
+    text-align: justify;
+    padding-top:20px;
+    padding-bottom: 20px;
+    
+}
+.name-color{
+    color: darkorange;
+}
+.my_intro{
+    display:flex;
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+.welcome-text{
+    width:70%;
+    font-family:sans-serif;
+    padding-left: 5%;
+    padding-top:5%;
+}
+.my_intro h2{
+    padding-top: 50px;
+    font-size: 3vmax;
+
+}
+.photo-1{
+    padding-top: 5%;
+    display: inline-block;
+    width:80%;
+    ;
+
+}
+img{
+    width:65%;
+    float: right;
+    padding-right: 3%;
+}
+.hire-me{
+    
+    background-image: linear-gradient(hsla(24, 92%, 59%, 0.658), #f33900f5);
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    width: 70px;
+    text-align: center;
+    
+}
+a{
+    color:blanchedalmond;
+}
