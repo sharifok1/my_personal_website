@@ -137,14 +137,19 @@ a{
     border-left: 7px solid rgb(233, 6, 93);
 }
 .exp-hed{
-    padding :40px;
+    padding :20px 0px;
+    font-size: 2vmin;
 }
 .my-exp{
-    padding:30px;
+    padding:30px 10px;
+    font-size: 3vmin;
 }
 .foter{
     margin-top: 20px;;
     padding-top:100px;
     padding: 20px;
     text-align: center;
+}
+#xp-name{
+    font-size: 2vmax;
 }
